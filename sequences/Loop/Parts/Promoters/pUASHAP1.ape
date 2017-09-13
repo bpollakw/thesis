@@ -1,0 +1,75 @@
+LOCUS       pUASHAP1                 261 bp ds-DNA     circular     13-SEP-2017
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     No BsmBI
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     misc_feature    31..261
+                     /label=UAS-Hap1
+                     /ApEinfo_fwdcolor="#ff8000"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    40..51
+                     /label=UAS-H
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    60..71
+                     /label=UAS-H(1)
+                     /ApEinfo_label="UAS-H"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    80..91
+                     /label=UAS-H(2)
+                     /ApEinfo_label="UAS-H"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    100..111
+                     /label=UAS-H(3)
+                     /ApEinfo_label="UAS-H"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    120..131
+                     /label=UAS-H(4)
+                     /ApEinfo_label="UAS-H"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    180..233
+                     /label=min35S
+                     /ApEinfo_fwdcolor="#7f7f7f"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    234..261
+                     /label=not in m35S
+                     /ApEinfo_fwdcolor="#0080ff"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    136..136
+                     /label=DEL T
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+ORIGIN
+        1 gaattcgccc ttgatatcca cgtagtgctt AGCTTAGCAC GGACTTATCG GTCGGAGCAC
+       61 GGACTTATCG GTCGGAGCAC GGACTTATCG GTCGGAGCAC GGACTTATCG GTCGGAGCAC
+      121 GGACTTATCG GTCGGTCTAG AAGCTACTCC ACGTCCATAA GGGACACATC ACAATCCCAC
+      181 TATCCTTCGC AAGACCCTTC CTCTATATAA GGAAGTTCAT TTCATTTGGA GAGGACGACC
+      241 TGCAGGTCGA CGGATCCAAC A   
+//
